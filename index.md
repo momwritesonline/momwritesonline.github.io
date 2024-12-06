@@ -1,3 +1,3 @@
 ---
-title: Technology is not scary
+title: Mom and technology
 ---
