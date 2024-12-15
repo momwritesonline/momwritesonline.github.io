@@ -1,3 +1,3 @@
 ---
-title: Mom and technology
+title: writing docs
 ---
